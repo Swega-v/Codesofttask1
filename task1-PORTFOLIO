@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Personal portfolio</title>
+        <link rel="stylesheet" href="style.css">
+        <style>
+            .but1{
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        
+        <header>
+            <h2 style="text-align:center">Swega.v</h2>
+            <p style="text-align:center">Passionate Learner | Aspiring Developer | Turning Ideas into Code</p>
+        </header>
+        <h2 style="text-align:center;" class="abouts">About Me</h2>
+
+        <div class="about">
+            <img src="./picpho.jpg" width="200" height="200">
+        </div>
+        <div class="aboutbio">
+            Hello i am swega.v , a passionate developer with experience in building responsive and dynamic websites. Skilled in HTML , CSS and JavaScript.
+        </div>
+        <h2 style="text-align:center">Skills</h2>
+        <div class="uldi">
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>Javascript</li>
+                <li>Git</li>
+                <li>Github</li>
+            </ul>
+        </div>
+        <div class="port">
+            <h2 style="text-align:center">Projects</h2>
+            <h3>project-1</h3>
+            <p style="text-align:center">Developed Scholarship Management System website using html and css.</p>
+        </div>
+           
+            <div class="folio">
+                <h2>project-2</h2>
+                <p style="text-align:center">Created  a responsive personal portfolio website showcasing my work ,skills and achievements </p>
+            </div>
+            <div class="rel">
+            <h2 style="text-align:center" >Resume</h2>
+            </div>
+            <div class="but1">
+                <button style="text-align:center;" class="but">Download Resume</button>
+            </div>
+            <div>
+                <h2>Contact Me</h2>
+                <p>Email:240455.ad@rmkec.ac.in</p>
+                <p>Phone: +91 9876543210</p>
+            </div>
+            <footer>
+                <p>&copy;2024 Swega.Email:240455.ad@rmkec.ac.in</p>
+            </footer>
+        
+    </body>
+</html>
